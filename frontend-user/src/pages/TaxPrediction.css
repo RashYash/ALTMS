@@ -1,0 +1,54 @@
+.app-container {
+  min-height: 100vh;
+  background-color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+/* Main section */
+.main-section {
+  padding: 2.5rem;
+}
+
+/* Titles */
+.main-title {
+  text-align: center;
+  font-size: 1.875rem;
+  font-weight: bold;
+  color: #2b2e83;
+  margin-bottom: 1.5rem;
+}
+
+.sub-title {
+  color: #4b5563;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+}
+
+/* Card Section */
+.card-wrapper {
+  background-color: white;
+  border-radius: 1rem;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+  border: 1px solid #bfdbfe;
+  padding: 2rem;
+}
+
+.section-heading {
+  text-align: center;
+  font-size: 1.875rem;
+  font-weight: bold;
+  color: #2b2e83;
+  margin-bottom: 1.5rem;
+}
+
+.highlight {
+  color: #3b82f6;
+}
+
+.card-grid {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
